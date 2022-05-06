@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.4",
     "tmi.js": "^1.8.5"
-  }
+  },
+  "type": "module"
 }
